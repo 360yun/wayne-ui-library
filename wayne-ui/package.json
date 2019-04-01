@@ -1,0 +1,28 @@
+{
+  "name": "wayne-ui",
+  "version": "0.1.0",
+  "description": "css for wayne",
+  "main": "src/index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BennieMeng/wayne-ui.git"
+  },
+  "keywords": [
+    "theme"
+  ],
+  "author": "benniemeng@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BennieMeng/wayne-ui/issues"
+  },
+  "homepage": "https://github.com/BennieMeng/wayne-ui#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
