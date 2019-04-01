@@ -1,0 +1,3 @@
+[submodule "wayne-ui/src/clr"]
+	path = wayne-ui/src/clr
+	url = git@github.com:360yun/clr-ui.git
