@@ -1,2 +1,2 @@
 # wayne-ui
-ui for wayne
+ui for wayne.
